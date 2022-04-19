@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class app {
     public static void main(String[] args) {
         String recebeSenha = "";
-        String senhaCorreta = "xingling123";
 
         for (int i = 1; i <= 3; i++) {
             Scanner entry = new Scanner(System.in);

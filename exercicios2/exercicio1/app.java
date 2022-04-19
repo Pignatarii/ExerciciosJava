@@ -1,6 +1,5 @@
 package exercicio1;
 
-import javax.swing.*;
 import java.util.Scanner;
 
 public class app {
@@ -9,7 +8,6 @@ public class app {
         var num = 0;
 
         Scanner numE = new Scanner(System.in);
-
 
             System.out.print("Informe a primeira nota!: ");
             var nota1 = numE.nextInt();
